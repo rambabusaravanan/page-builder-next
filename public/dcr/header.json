@@ -1,0 +1,12 @@
+{
+    "links": [
+        {
+            "href": "/about",
+            "label": "About Us"
+        },
+        {
+            "href": "https://github.com/zeit/next.js",
+            "label": "GitHub"
+        }
+    ]
+}

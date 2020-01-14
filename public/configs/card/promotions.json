@@ -1,0 +1,111 @@
+{
+    "layout": "layouts/SingleColumnPromotion",
+    "data": {
+        "header": {
+            "component": "components/Nav",
+            "data": ""
+        },
+        "heading": "Card Promotions",
+        "section1": [
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "One"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Two"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Three"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Four"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Five"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "One"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Two"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Three"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Four"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Five"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "One"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Two"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Three"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Four"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Five"
+                }
+            }
+        ],
+        "section2": [
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Right",
+                    "type": "full"
+                }
+            }
+        ]
+    }
+}

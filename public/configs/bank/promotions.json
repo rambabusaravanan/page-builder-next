@@ -1,0 +1,113 @@
+{
+    "layout": "layouts/TwoColumnPromotion",
+    "data": {
+        "header": {
+            "component": "components/Nav",
+            "datapath": "dcr/header.json"
+        },
+        "heading": "Bank Promotions",
+        "columnLeft": [
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "One"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Two"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Three"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Four"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "One"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Two"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Three"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Four"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "One"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Two"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Three"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Four"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Five"
+                }
+            }
+        ],
+        "columnRight": [
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Right Column - 1",
+                    "type": "full"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Right Column - 2",
+                    "type": "full"
+                }
+            },
+            {
+                "component": "components/Tile",
+                "data": {
+                    "content": "Right Column - 3",
+                    "type": "full"
+                }
+            }
+        ]        
+    }
+}
